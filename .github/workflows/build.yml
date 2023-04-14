@@ -19,7 +19,7 @@ jobs:
       - name: nuget restore
         run: nuget restore ${{ env.solution }}
       - name: Build
-        run: msbuild ${{ env.solution }} /p:configuration:Release /p:DeployExtension=false /p:ZipPackageCompressionLevel=normal
+        run: msbuild ${{ env.solution }} /p:configuration=Release /p:DeployExtension=false /p:ZipPackageCompressionLevel=normal
       - name: Upload grammar extension
         uses: actions/upload-artifact@v3
         with:
