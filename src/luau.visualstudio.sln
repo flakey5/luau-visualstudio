@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "luau.visualstudio.grammar", "luau.visualstudio.grammar\luau.visualstudio.grammar.csproj", "{A6182A36-A914-47B0-9725-C893C45793F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "luau.visualstudio.lsp", "luau.visualstudio.lsp\luau.visualstudio.lsp.csproj", "{871B89F4-71E7-4FF9-B787-04C5C74709BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6182A36-A914-47B0-9725-C893C45793F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6182A36-A914-47B0-9725-C893C45793F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6182A36-A914-47B0-9725-C893C45793F0}.Debug|arm64.ActiveCfg = Debug|arm64
+		{A6182A36-A914-47B0-9725-C893C45793F0}.Debug|arm64.Build.0 = Debug|arm64
+		{A6182A36-A914-47B0-9725-C893C45793F0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A6182A36-A914-47B0-9725-C893C45793F0}.Debug|x64.Build.0 = Debug|Any CPU
+		{A6182A36-A914-47B0-9725-C893C45793F0}.Debug|x86.ActiveCfg = Debug|x86
+		{A6182A36-A914-47B0-9725-C893C45793F0}.Debug|x86.Build.0 = Debug|x86
+		{A6182A36-A914-47B0-9725-C893C45793F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6182A36-A914-47B0-9725-C893C45793F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6182A36-A914-47B0-9725-C893C45793F0}.Release|arm64.ActiveCfg = Release|arm64
+		{A6182A36-A914-47B0-9725-C893C45793F0}.Release|arm64.Build.0 = Release|arm64
+		{A6182A36-A914-47B0-9725-C893C45793F0}.Release|x64.ActiveCfg = Release|Any CPU
+		{A6182A36-A914-47B0-9725-C893C45793F0}.Release|x64.Build.0 = Release|Any CPU
+		{A6182A36-A914-47B0-9725-C893C45793F0}.Release|x86.ActiveCfg = Release|x86
+		{A6182A36-A914-47B0-9725-C893C45793F0}.Release|x86.Build.0 = Release|x86
+		{871B89F4-71E7-4FF9-B787-04C5C74709BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871B89F4-71E7-4FF9-B787-04C5C74709BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871B89F4-71E7-4FF9-B787-04C5C74709BC}.Debug|arm64.ActiveCfg = Debug|arm64
+		{871B89F4-71E7-4FF9-B787-04C5C74709BC}.Debug|arm64.Build.0 = Debug|arm64
+		{871B89F4-71E7-4FF9-B787-04C5C74709BC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{871B89F4-71E7-4FF9-B787-04C5C74709BC}.Debug|x64.Build.0 = Debug|Any CPU
+		{871B89F4-71E7-4FF9-B787-04C5C74709BC}.Debug|x86.ActiveCfg = Debug|x86
+		{871B89F4-71E7-4FF9-B787-04C5C74709BC}.Debug|x86.Build.0 = Debug|x86
+		{871B89F4-71E7-4FF9-B787-04C5C74709BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871B89F4-71E7-4FF9-B787-04C5C74709BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871B89F4-71E7-4FF9-B787-04C5C74709BC}.Release|arm64.ActiveCfg = Release|arm64
+		{871B89F4-71E7-4FF9-B787-04C5C74709BC}.Release|arm64.Build.0 = Release|arm64
+		{871B89F4-71E7-4FF9-B787-04C5C74709BC}.Release|x64.ActiveCfg = Release|Any CPU
+		{871B89F4-71E7-4FF9-B787-04C5C74709BC}.Release|x64.Build.0 = Release|Any CPU
+		{871B89F4-71E7-4FF9-B787-04C5C74709BC}.Release|x86.ActiveCfg = Release|x86
+		{871B89F4-71E7-4FF9-B787-04C5C74709BC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE2329BF-E2E9-4838-8FE9-1FE3E1215F94}
+	EndGlobalSection
+EndGlobal

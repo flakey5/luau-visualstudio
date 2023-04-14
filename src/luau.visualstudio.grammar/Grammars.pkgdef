@@ -1,0 +1,13 @@
+﻿; Registering the package
+[$RootKey$\InstalledProducts\luau.visualstudio.grammarPackage]
+"Package"="{a6182a36-a914-47b0-9725-c893c45793f0}"
+[$RootKey$\BindingPaths\{a6182a36-a914-47b0-9725-c893c45793f0}]
+"$PackageFolder$"=""
+
+; Registering the TextMate grammar
+[$RootKey$\TextMate\Repositories]
+"luau.visualstudio.grammar"="$PackageFolder$\Syntaxes"
+
+; Match file extensions with icons. See full icon list at https://glyphlist.azurewebsites.net/knownmonikers/
+[$RootKey$\ShellFileAssociations\.luau]
+"DefaultIconMoniker"="0cb23ee3-148d-446a-aeb7-ea0cdd5912e5:0"
