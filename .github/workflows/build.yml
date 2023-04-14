@@ -25,10 +25,10 @@ jobs:
         with:
           name: luau.visualstudio.grammar.vsix
           path: src/luau.visualstudio.grammar/bin/Release/luau.visualstudio.grammar.vsix
-          retension-days: 5
+          retention-days: 5
       - name: Upload lsp extension
         uses: actions/upload-artifact@v3
         with:
           name: luau.visualstudio.lsp.vsix
           path: src/luau.visualstudio.lsp/bin/Release/luau.visualstudio.lsp.vsix
-          retension-days: 5
+          retention-days: 5
